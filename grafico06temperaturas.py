@@ -10,8 +10,13 @@ for i in range(len(semana)):
     temp = int(input())
     temperaturas.append(temp)
 
-plt.plot(semana, temperaturas)
-plt.title("Temperaturas semana 1 de marzo")
+plt.plot(semana, temperaturas, label="Semana 1")
+#PODEMOS INCLUIR MAS DATOS DENTRO DEL GRAFICO LINEAL 
+#SIEMPRE QUE PONGAMOS UNA LABEL A CADA plot()
+temperaturas2 = [5, 20, 8, 12, 19, 22, 30]
+plt.plot(semana, temperaturas2, label="Semana 2")
+plt.legend()
+plt.title("Temperaturas semanales")
 plt.xlabel("Día semana")
 plt.ylabel("Temperatura")
 plt.show()
