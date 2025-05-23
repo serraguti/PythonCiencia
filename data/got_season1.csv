@@ -1,0 +1,59 @@
+,name,allegiance,season,episode,location,killer,killers_house,method,death_no
+0,Waymar Royce,Night's Watch,1,1,Beyond the Wall,White Walker,,Ice sword,1
+1,Gared,Night's Watch,1,1,Beyond the Wall,White Walker,,Ice sword,2
+2,Will,Night's Watch,1,1,Winterfell,Ned Stark,House Stark,Sword,3
+3,Stag,,1,1,Winterfell,Direwolf,,Teeth,4
+4,Direwolf,,1,1,Winterfell,Stag,,Antler,5
+5,Jon Arryn,House Arryn,1,1,King's Landing,Lysa Arryn,House Arryn,Poison,6
+6,Dothraki man,Dothraki,1,1,Pentos,Dothraki man,Dothraki,Arakh,7
+7,Catspaw assassin,,1,2,Winterfell,Summer,House Stark,Teeth,8
+8,Mycah,Smallfolk,1,2,Kingsroad,"Sandor ""the Hound"" Clegane",House Lannister,Sword,9
+9,Lady,House Stark,1,2,Kingsroad,Ned Stark,House Stark,Knife,10
+10,Ser Hugh of the Vale,House Arryn,1,4,King's Landing,"Gregor ""the Mountain"" Clegane",House Lannister,Spear,11
+11,Clegane's horse,House Clegane,1,5,King's Landing,"Gregor ""the Mountain"" Clegane",House Lannister,Sword,12
+12,Stark soldier,House Stark,1,5,Eastern Road,Tribesman,,Bolo,13
+13,Tribesman,,1,5,Eastern Road,Bronn,House Lannister,Sword,14
+14,Tribesman,,1,5,Eastern Road,Bronn,House Lannister,Sword,15
+15,Tribesman,,1,5,Eastern Road,Bronn,House Lannister,Sword,16
+16,Stark soldier,House Stark,1,5,Eastern Road,Tribesman,,Mace,17
+17,Tribesman,,1,5,Eastern Road,Tyrion Lannister,House Lannister,Shield,18
+18,Tribesman,,1,5,Eastern Road,Rodrik Cassel,House Stark,Sword,19
+19,Tribesman,,1,5,Eastern Road,Rodrik Cassel,House Stark,Sword,20
+20,Tribesman,,1,5,Eastern Road,Bronn,House Lannister,Knife,21
+21,Stark soldier,House Stark,1,5,King's Landing,Lannister soldier,House Lannister,Spear,22
+22,Stark soldier,House Stark,1,5,King's Landing,Lannister soldier,House Lannister,Spear,23
+23,Lannister soldier,House Lannister,1,5,King's Landing,Jory Cassel,House Stark,Sword,24
+24,Lannister soldier,House Lannister,1,5,King's Landing,Ned Stark,House Stark,Sword,25
+25,Lannister soldier,House Lannister,1,5,King's Landing,Jory Cassel,House Stark,Sword,26
+26,Lannister soldier,House Lannister,1,5,King's Landing,Jory Cassel,House Stark,Sword,27
+27,Jory Cassel,House Stark,1,5,King's Landing,Jaime Lannister,House Lannister,Knife,28
+28,Wallen,Free Folk,1,6,Winterfell,Robb Stark,House Stark,Sword,29
+29,Wildling,Free Folk,1,6,Winterfell,Robb Stark,House Stark,Sword,30
+30,Stiv,Free Folk,1,6,Winterfell,Theon Greyjoy,House Bolton,Arrow,31
+31,Vardis Egen,House Arryn,1,6,The Eyrie,Bronn,House Lannister,Sword,32
+32,Viserys Targaryen,House Targaryen,1,6,Vaes Dothrak,Khal Drogo,Dothraki,Molten gold,33
+33,Robert Baratheon,House Baratheon of King's Landing,1,7,King's Landing,Boar,,Tusk,34
+34,Stark soldier,House Stark,1,7,King's Landing,City watch guard,House Lannister,Sword,35
+35,Stark soldier,House Stark,1,7,King's Landing,City watch guard,House Lannister,Sword,36
+36,Stark soldier,House Stark,1,7,King's Landing,City watch guard,House Lannister,Sword,37
+37,Stark soldier,House Stark,1,7,King's Landing,"Sandor ""the Hound"" Clegane",House Lannister,Sword,38
+38,Stark soldier,House Stark,1,8,King's Landing,Lannister soldier,House Lannister,Sword,39
+39,Stark soldier,House Stark,1,8,King's Landing,Lannister soldier,House Lannister,Sword,40
+40,Vayon Poole,House Stark,1,8,King's Landing,Lannister soldier,House Lannister,Sword,41
+41,Stark staff member,House Stark,1,8,King's Landing,Lannister soldier,House Lannister,Sword,42
+42,Stark staff member,House Stark,1,8,King's Landing,Lannister soldier,House Lannister,Sword,43
+43,Septa Mordane,House Stark,1,8,King's Landing,Lannister soldier,House Lannister,Sword,44
+44,Syrio Forel,House Stark,1,8,King's Landing,Meryn Trant,House Trant,Sword,45
+45,Stableboy,Smallfolk,1,8,King's Landing,Arya Stark,House Stark,Sword,46
+46,Othor,,1,8,Castle Black,Jon Snow,House Stark,Fire,47
+47,Jafer Flowers,,1,8,Castle Black,Night's Watch brother,Night's Watch,Fire,48
+48,Mago,Dothraki,1,8,Lhazar,Khal Drogo,Dothraki,Hands,49
+49,Drogo's horse,Dothraki,1,9,Red Waste,Mirri Maz Duur,,Knife,50
+50,Qotho,Dothraki,1,9,Red Waste,Jorah Mormont,House Targaryen,Sword,51
+51,Stark soldier,House Stark,1,9,Unknown,Hill tribesman,,Hammer,52
+52,Stark soldier,House Stark,1,9,Unknown,Hill tribesman,,Sword,53
+53,Pigeon,,1,9,King's Landing,Arya Stark,House Stark,Hands,54
+54,Ned Stark,House Stark,1,9,King's Landing,Ilyn Payne,House Payne,Sword,55
+55,Rhaego,Dothraki,1,10,Red Waste,Mirri Maz Duur,,Magic,56
+56,Khal Drogo,Dothraki,1,10,Red Waste,Daenerys Targaryen,House Targaryen,Pillow,57
+57,Mirri Maz Duur,,1,10,Red Waste,Daenerys Targaryen,House Targaryen,Fire,58

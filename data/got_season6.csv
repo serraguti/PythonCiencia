@@ -1,0 +1,397 @@
+,name,allegiance,season,episode,location,killer,killers_house,method,death_no
+602,Bolton soldier,House Bolton,6,1,Winterfell,Brienne of Tarth,House Tarth,Sword,603
+603,Bolton soldier,House Bolton,6,1,Winterfell,Brienne of Tarth,House Tarth,Sword,604
+604,Bolton soldier,House Bolton,6,1,Winterfell,Podrick Payne,House Tarth,Sword,605
+605,Bolton soldier,House Bolton,6,1,Winterfell,Brienne of Tarth,House Tarth,Knife,606
+606,Bolton soldier,House Bolton,6,1,Winterfell,Reek,House Bolton,Sword,607
+607,Doran Martell,House Martell,6,1,Dorne,Ellaria Sand,House Martell,Knife,608
+608,Areo Hotah,House Martell,6,1,Dorne,Tyene Sand,House Martell,Knife,609
+609,Trystane Martell,House Martell,6,1,King's Landing,Obara Sand,House Martell,Spear,610
+610,Night's Watch brother,Night's Watch,6,2,Castle Black,Tormund,Free Folk,Sword,611
+611,Night's Watch brother,Night's Watch,6,2,Castle Black,Wun Wun,Free Folk,Hands,612
+612,Peasant,Smallfolk,6,2,King's Landing,"Gregor ""the Mountain"" Clegane",House Lannister,Hands,613
+613,Roose Bolton,House Bolton,6,2,Winterfell,Ramsay Bolton,House Bolton,Knife,614
+614,Walda Frey,House Bolton,6,2,Winterfell,Ramsay Bolton,House Bolton,Dogs,615
+615,Bolton heir,House Bolton,6,2,Winterfell,Ramsay Bolton,House Bolton,Dogs,616
+616,Balon Greyjoy,House Greyjoy,6,2,Iron Islands,Euron Greyjoy,House Greyjoy,Hands,617
+617,Stark soldier,House Stark,6,3,Dorne,Oswell Whent,House Targaryen,Sword,618
+618,Oswell Whent,House Targaryen,6,3,Dorne,Ned Stark,House Stark,Sword,619
+619,Stark soldier,House Stark,6,3,Dorne,Arthur Dayne,House Targaryen,Sword,620
+620,Stark soldier,House Stark,6,3,Dorne,Arthur Dayne,House Targaryen,Sword,621
+621,Stark soldier,House Stark,6,3,Dorne,Arthur Dayne,House Targaryen,Sword,622
+622,Arthur Dayne,House Targaryen,6,3,Dorne,Ned Stark,House Stark,Sword,623
+623,Bowen Marsh,Night's Watch,6,3,Castle Black,Jon Snow,House Stark,Noose,624
+624,Othell Yarwyck,Night's Watch,6,3,Castle Black,Jon Snow,House Stark,Noose,625
+625,Alliser Thorne,Night's Watch,6,3,Castle Black,Jon Snow,House Stark,Noose,626
+626,Olly,Night's Watch,6,3,Castle Black,Jon Snow,House Stark,Noose,627
+627,Dothraki man,Dothraki,6,4,Vaes Dothrak,Daario Naharis,House Targaryen,Hands,628
+628,Dothraki man,Dothraki,6,4,Vaes Dothrak,Daario Naharis,House Targaryen,Knife,629
+629,Osha,House Stark,6,4,Winterfell,Ramsay Bolton,House Bolton,Knife,630
+630,Khal Moro,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,631
+631,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,632
+632,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,633
+633,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,634
+634,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,635
+635,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,636
+636,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,637
+637,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,638
+638,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,639
+639,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,640
+640,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,641
+641,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,642
+642,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,643
+643,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,644
+644,Dothraki Khal,Dothraki,6,4,Vaes Dothrak,Daenerys Targaryen,House Targaryen,Fire,645
+645,Child of the Forest,Children of the Forest,6,5,Beyond the Wall,Wight,White Walkers,Axe,646
+646,Child of the Forest,Children of the Forest,6,5,Beyond the Wall,Wight,White Walkers,Teeth,647
+647,Child of the Forest,Children of the Forest,6,5,Beyond the Wall,Wight,White Walkers,Sword,648
+648,Child of the Forest,Children of the Forest,6,5,Beyond the Wall,White Walker,White Walkers,Sword,649
+649,Summer,House Stark,6,5,Beyond the Wall,Wight,White Walkers,Sword,650
+650,Three-eyed Raven,Children of the Forest,6,5,Beyond the Wall,White Walker,White Walkers,Sword,651
+651,Leaf,Children of the Forest,6,5,Beyond the Wall,Wight,White Walkers,Sword,652
+652,Hodor,House Stark,6,5,Beyond the Wall,Wight,White Walkers,Hands,653
+653,Brother Ray,Faith of the Seven,6,7,Riverlands,Lem Lemoncloak,Brotherhood Without Banners,Noose,654
+654,Brotherhood Without Banners Member,Brotherhood Without Banners,6,8,Riverlands,"Sandor ""the Hound"" Clegane",House Clegane,Axe,655
+655,Brotherhood Without Banners Member,Brotherhood Without Banners,6,8,Riverlands,"Sandor ""the Hound"" Clegane",House Clegane,Axe,656
+656,Brotherhood Without Banners Member,Brotherhood Without Banners,6,8,Riverlands,"Sandor ""the Hound"" Clegane",House Clegane,Axe,657
+657,Brotherhood Without Banners Member,Brotherhood Without Banners,6,8,Riverlands,"Sandor ""the Hound"" Clegane",House Clegane,Axe,658
+658,Faith Militant Brother,Faith Militant,6,8,King's Landing,"Gregor ""the Mountain"" Clegane",House Clegane,Hands,659
+659,Brotherhood Without Banners Member,Brotherhood Without Banners,6,8,Riverlands,"Sandor ""the Hound"" Clegane",House Clegane,Noose,660
+660,Lem Lemoncloak,Brotherhood Without Banners,6,8,Riverlands,Beric Dondarrion,Brotherhood Without Banners,Noose,661
+661,Brotherhood Without Banners Member,Brotherhood Without Banners,6,8,Riverlands,"Sandor ""the Hound"" Clegane",House Clegane,Noose,662
+662,Meereen citizen,,6,9,Meereen,The Masters Soldier,The Masters,Catapult,663
+663,Meereen citizen,,6,9,Meereen,The Masters Soldier,The Masters,Catapult,664
+664,Meereen citizen,,6,9,Meereen,The Masters Soldier,The Masters,Catapult,665
+665,Meereen citizen,,6,9,Meereen,Sons of the Harpy agent,Sons of the Harpy,Sword,666
+666,Meereen citizen,,6,9,Meereen,Sons of the Harpy agent,Sons of the Harpy,Sword,667
+667,Meereen citizen,,6,9,Meereen,Sons of the Harpy agent,Sons of the Harpy,Sword,668
+668,Meereen citizen,,6,9,Meereen,Sons of the Harpy agent,Sons of the Harpy,Sword,669
+669,Meereen citizen,,6,9,Meereen,Sons of the Harpy agent,Sons of the Harpy,Sword,670
+670,Meereen citizen,,6,9,Meereen,Sons of the Harpy agent,Sons of the Harpy,Sword,671
+671,Meereen citizen,,6,9,Meereen,Sons of the Harpy agent,Sons of the Harpy,Sword,672
+672,Meereen citizen,,6,9,Meereen,Sons of the Harpy agent,Sons of the Harpy,Sword,673
+673,Meereen citizen,,6,9,Meereen,Sons of the Harpy agent,Sons of the Harpy,Sword,674
+674,Meereen citizen,,6,9,Meereen,Sons of the Harpy agent,Sons of the Harpy,Sword,675
+675,Meereen citizen,,6,9,Meereen,Sons of the Harpy agent,Sons of the Harpy,Sword,676
+676,Sons of the Harpy agent,Sons of the Harpy,6,9,Meereen,Daario Naharis,House Targaryen,Arakh,677
+677,The Masters Soldier,The Masters,6,9,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),678
+678,The Masters Soldier,The Masters,6,9,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),679
+679,The Masters Soldier,The Masters,6,9,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),680
+680,The Masters Soldier,The Masters,6,9,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),681
+681,The Masters Soldier,The Masters,6,9,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),682
+682,The Masters Soldier,The Masters,6,9,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),683
+683,The Masters Soldier,The Masters,6,9,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),684
+684,The Masters Soldier,The Masters,6,9,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),685
+685,The Masters Soldier,The Masters,6,9,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),686
+686,The Masters Soldier,The Masters,6,9,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),687
+687,The Masters Soldier,The Masters,6,9,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),688
+688,The Masters Soldier,The Masters,6,9,Meereen,Daenerys Targaryen,House Targaryen,Dragonfire (Dragon),689
+689,Belicho Paenymion,The Masters,6,9,Meereen,Grey Worm,House Targaryen,Knife,690
+690,Razdal mo Eraz,The Masters,6,9,Meereen,Grey Worm,House Targaryen,Knife,691
+691,Rickon Stark,House Stark,6,9,Winterfell,Ramsay Bolton,House Bolton,Arrow,692
+692,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Spear,693
+693,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Spear,694
+694,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Sword,695
+695,Bolton soldier,House Bolton,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,696
+696,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,697
+697,Bolton soldier,House Bolton,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,698
+698,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,699
+699,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,700
+700,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,701
+701,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,702
+702,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,703
+703,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,704
+704,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,705
+705,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,706
+706,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,707
+707,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,708
+708,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,709
+709,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,710
+710,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,711
+711,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Spear,712
+712,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,713
+713,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,714
+714,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,715
+715,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,716
+716,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,717
+717,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,718
+718,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,719
+719,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,720
+720,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,721
+721,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,722
+722,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,723
+723,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,724
+724,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,725
+725,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,726
+726,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,727
+727,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Sword,728
+728,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,729
+729,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,730
+730,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,731
+731,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,732
+732,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,733
+733,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,734
+734,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,735
+735,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,736
+736,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Sword,737
+737,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,738
+738,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Sword,739
+739,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,740
+740,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Sword,741
+741,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,742
+742,Bolton soldier,House Bolton,6,9,Winterfell,Tormund,Free Folk,Sword,743
+743,Wildling,Free Folk,6,9,Winterfell,Bolton soldier,House Bolton,Spear,744
+744,Wildling,Free Folk,6,9,Winterfell,Bolton soldier,House Bolton,Spear,745
+745,Wildling,Free Folk,6,9,Winterfell,Bolton soldier,House Bolton,Spear,746
+746,Wildling,Free Folk,6,9,Winterfell,Bolton soldier,House Bolton,Spear,747
+747,Stark Soldier,House Stark,6,9,Winterfell,Smalljon Umber,House Umber,Sword,748
+748,Stark Soldier,House Stark,6,9,Winterfell,Umber Soldier,House Umber,Sword,749
+749,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,750
+750,Bolton soldier,House Bolton,6,9,Winterfell,Wun Wun,Free Folk,Hands,751
+751,Bolton soldier,House Bolton,6,9,Winterfell,Tormund,Free Folk,Sword,752
+752,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,753
+753,Stark Soldier,House Stark,6,9,Winterfell,Smalljon Umber,House Umber,Sword,754
+754,Stark Soldier,House Stark,6,9,Winterfell,Smalljon Umber,House Umber,Sword,755
+755,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Sword,756
+756,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Sword,757
+757,Bolton soldier,House Bolton,6,9,Winterfell,Wildling,Free Folk,Sword,758
+758,Stark Soldier,House Stark,6,9,Winterfell,Smalljon Umber,House Umber,Sword,759
+759,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,760
+760,Bolton soldier,House Bolton,6,9,Winterfell,Wun Wun,Free Folk,Hands,761
+761,Wildling,Free Folk,6,9,Winterfell,Bolton soldier,House Bolton,Spear,762
+762,Wildling,Free Folk,6,9,Winterfell,Bolton soldier,House Bolton,Spear,763
+763,Wildling,Free Folk,6,9,Winterfell,Bolton soldier,House Bolton,Sword,764
+764,Bolton soldier,House Bolton,6,9,Winterfell,Tormund,Free Folk,Sword,765
+765,Stark Soldier,House Stark,6,9,Winterfell,Umber Soldier,House Umber,Sword,766
+766,Wildling,Free Folk,6,9,Winterfell,Bolton soldier,House Bolton,Spear,767
+767,Wildling,Free Folk,6,9,Winterfell,Bolton soldier,House Bolton,Spear,768
+768,Wildling,Free Folk,6,9,Winterfell,Bolton soldier,House Bolton,Spear,769
+769,Stark Soldier,House Stark,6,9,Winterfell,Smalljon Umber,House Umber,Sword,770
+770,Bolton soldier,House Bolton,6,9,Winterfell,Jon Snow,House Stark,Sword,771
+771,Smalljon Umber,House Umber,6,9,Winterfell,Tormund,Free Folk,Knife,772
+772,Bolton soldier,House Bolton,6,9,Winterfell,Knights of the Vale,House Arryn,Sword,773
+773,Bolton soldier,House Bolton,6,9,Winterfell,Knights of the Vale,House Arryn,Sword,774
+774,Bolton soldier,House Bolton,6,9,Winterfell,Knights of the Vale,House Arryn,Sword,775
+775,Bolton soldier,House Bolton,6,9,Winterfell,Knights of the Vale,House Arryn,Sword,776
+776,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,777
+777,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Arrow,778
+778,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,779
+779,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,780
+780,Stark Soldier,House Stark,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,781
+781,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Arrow,782
+782,Wildling,Free Folk,6,9,Winterfell,Bolton soldier,House Bolton,Arrow,783
+783,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Arrow,784
+784,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Arrow,785
+785,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Arrow,786
+786,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Arrow,787
+787,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Arrow,788
+788,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Arrow,789
+789,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Arrow,790
+790,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Arrow,791
+791,Bolton soldier,House Bolton,6,9,Winterfell,Stark Soldier,House Stark,Arrow,792
+792,Bolton soldier,House Bolton,6,9,Winterfell,Wildling,Free Folk,Hands,793
+793,Wun Wun,Free Folk,6,9,Winterfell,Ramsay Bolton,House Bolton,Arrow,794
+794,Ramsay Bolton,House Bolton,6,9,Winterfell,Bolton Hound,House Bolton,Teeth,795
+795,Grand Maester Pycelle,Order of Maesters,6,10,King's Landing,Little Bird,House Lannister,Knife,796
+796,Lancel Lannister,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,797
+797,High Sparrow,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,798
+798,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,799
+799,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,800
+800,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,801
+801,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,802
+802,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,803
+803,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,804
+804,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,805
+805,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,806
+806,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,807
+807,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,808
+808,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,809
+809,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,810
+810,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,811
+811,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,812
+812,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,813
+813,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,814
+814,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,815
+815,Peasant,Smallfolk,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,816
+816,Peasant,Smallfolk,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,817
+817,Peasant,Smallfolk,6,10,King's Landing,Cersei Lannister,House Lannister,Bell,818
+818,Peasant,Smallfolk,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,819
+819,Peasant,Smallfolk,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,820
+820,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,821
+821,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,822
+822,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,823
+823,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,824
+824,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,825
+825,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,826
+826,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,827
+827,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,828
+828,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,829
+829,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,830
+830,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,831
+831,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,832
+832,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,833
+833,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,834
+834,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,835
+835,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,836
+836,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,837
+837,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,838
+838,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,839
+839,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,840
+840,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,841
+841,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,842
+842,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,843
+843,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,844
+844,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,845
+845,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,846
+846,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,847
+847,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,848
+848,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,849
+849,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,850
+850,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,851
+851,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,852
+852,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,853
+853,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,854
+854,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,855
+855,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,856
+856,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,857
+857,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,858
+858,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,859
+859,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,860
+860,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,861
+861,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,862
+862,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,863
+863,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,864
+864,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,865
+865,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,866
+866,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,867
+867,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,868
+868,Faith Militant Brother,Faith Militant,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,869
+869,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,870
+870,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,871
+871,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,872
+872,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,873
+873,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,874
+874,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,875
+875,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,876
+876,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,877
+877,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,878
+878,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,879
+879,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,880
+880,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,881
+881,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,882
+882,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,883
+883,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,884
+884,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,885
+885,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,886
+886,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,887
+887,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,888
+888,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,889
+889,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,890
+890,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,891
+891,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,892
+892,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,893
+893,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,894
+894,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,895
+895,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,896
+896,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,897
+897,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,898
+898,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,899
+899,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,900
+900,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,901
+901,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,902
+902,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,903
+903,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,904
+904,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,905
+905,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,906
+906,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,907
+907,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,908
+908,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,909
+909,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,910
+910,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,911
+911,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,912
+912,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,913
+913,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,914
+914,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,915
+915,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,916
+916,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,917
+917,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,918
+918,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,919
+919,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,920
+920,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,921
+921,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,922
+922,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,923
+923,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,924
+924,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,925
+925,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,926
+926,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,927
+927,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,928
+928,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,929
+929,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,930
+930,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,931
+931,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,932
+932,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,933
+933,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,934
+934,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,935
+935,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,936
+936,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,937
+937,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,938
+938,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,939
+939,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,940
+940,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,941
+941,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,942
+942,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,943
+943,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,944
+944,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,945
+945,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,946
+946,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,947
+947,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,948
+948,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,949
+949,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,950
+950,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,951
+951,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,952
+952,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,953
+953,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,954
+954,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,955
+955,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,956
+956,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,957
+957,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,958
+958,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,959
+959,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,960
+960,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,961
+961,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,962
+962,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,963
+963,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,964
+964,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,965
+965,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,966
+966,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,967
+967,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,968
+968,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,969
+969,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,970
+970,Margaery Tyrell,House Tyrell,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,971
+971,Mace Tyrell,House Tyrell,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,972
+972,Loras Tyrell,House Tyrell,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,973
+973,Kevan Lannister,House Lannister,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,974
+974,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,975
+975,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,976
+976,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,977
+977,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,978
+978,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,979
+979,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,980
+980,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,981
+981,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,982
+982,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,983
+983,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,984
+984,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,985
+985,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,986
+986,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,987
+987,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,988
+988,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,989
+989,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,990
+990,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,991
+991,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,992
+992,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,993
+993,King's Landing Noble,,6,10,King's Landing,Cersei Lannister,House Lannister,Wildfire,994
+994,Tommen Baratheon,House Baratheon of King's Landing,6,10,King's Landing,Tommen Baratheon,House Baratheon of King's Landing,Falling,995
+995,Lothar Frey,House Frey,6,10,The Twins,Arya Stark,House Stark,Cooking,996
+996,Walder Rivers,House Frey,6,10,The Twins,Arya Stark,House Stark,Cooking,997
+997,Walder Frey,House Frey,6,10,The Twins,Arya Stark,House Stark,Knife,998
